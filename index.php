@@ -23,7 +23,7 @@
         $uc = htmlspecialchars($_REQUEST["uc"]);
         switch ($uc) {
             case 'accueil.php':
-                include include 'vues/accueil.php';
+                include 'vues/accueil.php';
                 break;
             case 'BTS_SIO':
                 include 'vues/vues-Formations/Bts_sio.php';
