@@ -18,10 +18,7 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Projets</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Mes Réalisations</a>
+          <a class="nav-link" href="index.php?uc=Projets">Projets</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Certifications</a>
